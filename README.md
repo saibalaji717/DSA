@@ -49,42 +49,42 @@
 
 ## 10. Dynamic Programming
 
-    - Learn the principles of dynamic programming.
-    - Solve problems using dynamic programming techniques.
+- Learn the principles of dynamic programming.
+- Solve problems using dynamic programming techniques.
 
 ## 11. Greedy Algorithms
 
-    - Understand greedy algorithms.
-    - Solve problems using greedy strategies.
+- Understand greedy algorithms.
+- Solve problems using greedy strategies.
 
 ## 12. Heap (Priority Queue)
 
-    - Learn about binary heaps and priority queues.
+- Learn about binary heaps and priority queues.
 
 ## 13. Trie
 
-    - Understand the Trie data structure and its applications.
+- Understand the Trie data structure and its applications.
 
 ## 14. Bit Manipulation
 
-    - Learn basic bitwise operations.
-    - Solve problems involving bit manipulation.
+- Learn basic bitwise operations.
+- Solve problems involving bit manipulation.
 
 ## 15. Advanced Data Structures
 
-    - Explore advanced data structures like Fenwick Tree, Segment Tree, and others.
+- Explore advanced data structures like Fenwick Tree, Segment Tree, and others.
 
 ## 16. System Design (Optional)
 
-    - Understand the basics of designing scalable systems.
-    - Focus on concepts like load balancing, caching, and microservices.
+- Understand the basics of designing scalable systems.
+- Focus on concepts like load balancing, caching, and microservices.
 
 ## 17. Mock Interviews and Problem Solving
 
-    - Practice solving coding problems on platforms like LeetCode, HackerRank, or CodeSignal.
-    - Participate in mock interviews to simulate real interview conditions.
+- Practice solving coding problems on platforms like LeetCode, HackerRank, or CodeSignal.
+- Participate in mock interviews to simulate real interview conditions.
 
 ## 18. Review and Reinforce
 
-    - Regularly review concepts and solve problems to reinforce your understanding.
-    - Focus on weak areas and seek additional resources if needed.
+- Regularly review concepts and solve problems to reinforce your understanding.
+- Focus on weak areas and seek additional resources if needed.
